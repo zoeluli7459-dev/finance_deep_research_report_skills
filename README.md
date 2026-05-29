@@ -1,4 +1,4 @@
-# Codex Finance Skills
+# Finance Skills
 
 A public-ready collection of Codex skills for China/A-share finance research workflows.
 
