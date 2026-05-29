@@ -1,4 +1,4 @@
-# Codex Finance Skills 中文版
+# Finance Skills 中文版
 
 这是一组面向中国 A 股 / 金融研究场景的 Codex Skills，适合公开发布到 GitHub。
 
